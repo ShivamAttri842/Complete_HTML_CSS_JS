@@ -34,3 +34,46 @@ HTML (HyperText Markup Language) is the standard language used to create and str
   - `<title>`: Sets the title displayed on the browser tab.
 - `<body>`: Contains all visible content of the webpage.
 
+### 1.2 Common Tags
+#### Headings:
+```html
+<h1>Main Heading</h1>
+<h2>Subheading</h2>
+```
+#### Paragraphs:
+```html
+<p>This is a paragraph.</p>
+```
+#### Links:
+```html
+<a href="https://example.com" target="_blank">Visit Example</a>
+```
+#### Images:
+```html
+<img src="image.jpg" alt="Description">
+```
+#### Lists:
+- **Ordered List:**
+```html
+<ol>
+    <li>Item 1</li>
+    <li>Item 2</li>
+</ol>
+```
+- **Unordered List:**
+```html
+<ul>
+    <li>Item A</li>
+    <li>Item B</li>
+</ul>
+```
+
+### 1.3 Attributes
+Attributes provide additional information about an element.
+```html
+<a href="https://example.com" target="_blank">Visit Example</a>
+```
+- `href`: Specifies the hyperlink destination.
+- `target`: Defines where to open the link (`_blank` opens in a new tab).
+
+---
