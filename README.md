@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> bfc9119633bdada8b3c20d519155b541a120611d
 # Complete HTML, CSS, and JS Notes
 
 This repository contains comprehensive notes on HTML, CSS, and JavaScript in markdown format. These notes are well-structured and cover essential concepts, making it easier for beginners and intermediate developers to learn and revise.
