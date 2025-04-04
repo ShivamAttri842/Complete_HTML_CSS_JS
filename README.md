@@ -1,5 +1,7 @@
 # Complete HTML, CSS, and JS Notes
 
+![Header Image](https://v1.scrimba.com/articles/content/images/size/w2000/2022/11/How-HTML--CSS--and-JavaScript-work-main.png)
+
 This repository contains comprehensive notes on HTML, CSS, and JavaScript in markdown format. These notes are well-structured and cover essential concepts, making it easier for beginners and intermediate developers to learn and revise.
 
 ## Features
