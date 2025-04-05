@@ -231,7 +231,6 @@ footer {
 ## **Key Takeaways** 🎯  
 ✔ **Use relative units** for flexible layouts.  
 ✔ **Leverage media queries** to adjust styles at different breakpoints.  
-✔ **Use Flexbox & Grid** for responsive positioning.  
 ✔ **Test across multiple devices** to ensure a smooth user experience.  
 ✔ **Optimize images and typography** for better performance and readability.  
 

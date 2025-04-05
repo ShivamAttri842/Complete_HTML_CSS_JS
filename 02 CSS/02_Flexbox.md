@@ -150,5 +150,3 @@ Centering elements both vertically and horizontally:
 For further learning, refer to:
 - [MDN Flexbox Guide](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 - [CSS Tricks Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [W3C Flexbox Specification](https://www.w3.org/TR/css-flexbox-1/)
-

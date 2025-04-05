@@ -131,7 +131,7 @@ To enable Grid on a container:
    ```css
    .container {
        justify-content: space-between;
-   }
+   } 
    ```
 
 ---
@@ -203,8 +203,7 @@ You can assign names to different sections of the grid, making layouts more read
 For more in-depth details and examples, refer to the official documentation:  
 
 - 📄 **MDN Web Docs (Mozilla)**: [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)  
-- 📄 **CSS-Tricks Guide**: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)  
-- 📄 **W3C Specification**: [CSS Grid Specification](https://www.w3.org/TR/css-grid-1/)  
+- 📄 **CSS-Tricks Guide**: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)   
 - 📄 **Google Developers**: [Learn CSS Grid](https://web.dev/learn/css/grid/)  
 
 ---
